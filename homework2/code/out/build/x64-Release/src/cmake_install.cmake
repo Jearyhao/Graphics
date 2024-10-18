@@ -1,8 +1,8 @@
-# Install script for directory: D:/Desktop/homework2/code/src
+# Install script for directory: D:/code/Graphics/homework2/code/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "D:/Desktop/homework2/code/out/install/x64-Release")
+  set(CMAKE_INSTALL_PREFIX "D:/code/Graphics/homework2/code/out/install/x64-Release")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,17 +34,17 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "D:/Desktop/homework2/code/meshedit.exe")
+   "D:/code/Graphics/homework2/code/meshedit.exe")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "D:/Desktop/homework2/code" TYPE EXECUTABLE FILES "D:/Desktop/homework2/code/out/build/x64-Release/meshedit.exe")
+  file(INSTALL DESTINATION "D:/code/Graphics/homework2/code" TYPE EXECUTABLE FILES "D:/code/Graphics/homework2/code/out/build/x64-Release/meshedit.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("D:/Desktop/homework2/code/out/build/x64-Release/src/CMakeFiles/meshedit.dir/install-cxx-module-bmi-RelWithDebInfo.cmake" OPTIONAL)
+  include("D:/code/Graphics/homework2/code/out/build/x64-Release/src/CMakeFiles/meshedit.dir/install-cxx-module-bmi-RelWithDebInfo.cmake" OPTIONAL)
 endif()
 

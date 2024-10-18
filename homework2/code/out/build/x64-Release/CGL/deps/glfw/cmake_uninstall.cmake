@@ -1,9 +1,9 @@
 
-if (NOT EXISTS "D:/Desktop/homework2/code/out/build/x64-Release/CGL/deps/glfw/install_manifest.txt")
-  message(FATAL_ERROR "Cannot find install manifest: \"D:/Desktop/homework2/code/out/build/x64-Release/CGL/deps/glfw/install_manifest.txt\"")
+if (NOT EXISTS "D:/code/Graphics/homework2/code/out/build/x64-Release/CGL/deps/glfw/install_manifest.txt")
+  message(FATAL_ERROR "Cannot find install manifest: \"D:/code/Graphics/homework2/code/out/build/x64-Release/CGL/deps/glfw/install_manifest.txt\"")
 endif()
 
-file(READ "D:/Desktop/homework2/code/out/build/x64-Release/CGL/deps/glfw/install_manifest.txt" files)
+file(READ "D:/code/Graphics/homework2/code/out/build/x64-Release/CGL/deps/glfw/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 
 foreach (file ${files})

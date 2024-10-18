@@ -1,21 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Desktop\\homework2\\code\\",
+  "WorkspaceRootPath": "D:\\code\\Graphics\\homework2\\code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\homework2\\code\\src\\student_code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\Graphics\\homework2\\code\\.vs\\launch.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\launch.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\Graphics\\homework2\\code\\CMakeSettings.json||{10608CD5-279C-4A28-BD5F-BA2CFCE06219}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeSettings.json||{10608CD5-279C-4A28-BD5F-BA2CFCE06219}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\Graphics\\homework2\\code\\src\\student_code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\student_code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\homework2\\code\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\Graphics\\homework2\\code\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\homework2\\code\\src\\halfEdgeMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\Graphics\\homework2\\code\\src\\halfEdgeMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\halfEdgeMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\homework2\\code\\src\\halfEdgeMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\Graphics\\homework2\\code\\src\\halfEdgeMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\halfEdgeMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -26,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "student_code.cpp",
-              "DocumentMoniker": "D:\\Desktop\\homework2\\code\\src\\student_code.cpp",
+              "DocumentMoniker": "D:\\code\\Graphics\\homework2\\code\\src\\student_code.cpp",
               "RelativeDocumentMoniker": "src\\student_code.cpp",
-              "ToolTip": "D:\\Desktop\\homework2\\code\\src\\student_code.cpp",
+              "ToolTip": "D:\\code\\Graphics\\homework2\\code\\src\\student_code.cpp",
               "RelativeToolTip": "src\\student_code.cpp",
-              "ViewState": "AgIAALwBAAAAAAAAAAAkwM4BAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAALwBAAAAAAAAAAAkwNQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-11T16:37:44.764Z",
               "IsPinned": true,
@@ -48,39 +56,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "halfEdgeMesh.cpp",
-              "DocumentMoniker": "D:\\Desktop\\homework2\\code\\src\\halfEdgeMesh.cpp",
-              "RelativeDocumentMoniker": "src\\halfEdgeMesh.cpp",
-              "ToolTip": "D:\\Desktop\\homework2\\code\\src\\halfEdgeMesh.cpp",
-              "RelativeToolTip": "src\\halfEdgeMesh.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-17T14:40:22.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "halfEdgeMesh.h",
-              "DocumentMoniker": "D:\\Desktop\\homework2\\code\\src\\halfEdgeMesh.h",
-              "RelativeDocumentMoniker": "src\\halfEdgeMesh.h",
-              "ToolTip": "D:\\Desktop\\homework2\\code\\src\\halfEdgeMesh.h",
-              "RelativeToolTip": "src\\halfEdgeMesh.h",
-              "ViewState": "AgIAAHYBAAAAAAAAAAAAwIsBAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-17T14:30:51.653Z"
+              "DocumentIndex": 0,
+              "Title": "launch.vs.json",
+              "DocumentMoniker": "D:\\code\\Graphics\\homework2\\code\\.vs\\launch.vs.json",
+              "RelativeDocumentMoniker": ".vs\\launch.vs.json",
+              "ToolTip": "D:\\code\\Graphics\\homework2\\code\\.vs\\launch.vs.json",
+              "RelativeToolTip": ".vs\\launch.vs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T10:35:36.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CMakeSettings.json",
+              "DocumentMoniker": "D:\\code\\Graphics\\homework2\\code\\CMakeSettings.json",
+              "RelativeDocumentMoniker": "CMakeSettings.json",
+              "ToolTip": "D:\\code\\Graphics\\homework2\\code\\CMakeSettings.json",
+              "RelativeToolTip": "CMakeSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T10:30:04.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "halfEdgeMesh.cpp",
+              "DocumentMoniker": "D:\\code\\Graphics\\homework2\\code\\src\\halfEdgeMesh.cpp",
+              "RelativeDocumentMoniker": "src\\halfEdgeMesh.cpp",
+              "ToolTip": "D:\\code\\Graphics\\homework2\\code\\src\\halfEdgeMesh.cpp",
+              "RelativeToolTip": "src\\halfEdgeMesh.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T14:40:22.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "halfEdgeMesh.h",
+              "DocumentMoniker": "D:\\code\\Graphics\\homework2\\code\\src\\halfEdgeMesh.h",
+              "RelativeDocumentMoniker": "src\\halfEdgeMesh.h",
+              "ToolTip": "D:\\code\\Graphics\\homework2\\code\\src\\halfEdgeMesh.h",
+              "RelativeToolTip": "src\\halfEdgeMesh.h",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAAwIsBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T14:30:51.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Desktop\\homework2\\code\\src\\main.cpp",
+              "DocumentMoniker": "D:\\code\\Graphics\\homework2\\code\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
-              "ToolTip": "D:\\Desktop\\homework2\\code\\src\\main.cpp",
+              "ToolTip": "D:\\code\\Graphics\\homework2\\code\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-11T16:21:07.33Z"
+              "WhenOpened": "2024-10-11T16:21:07.33Z",
+              "EditorCaption": ""
             }
           ]
         }

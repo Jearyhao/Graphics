@@ -1,8 +1,8 @@
-# Install script for directory: D:/Desktop/homework2/code/CGL/deps/freetype
+# Install script for directory: D:/code/Graphics/homework2/code/CGL/deps/freetype
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "D:/Desktop/homework2/code/out/install/x64-Release")
+  set(CMAKE_INSTALL_PREFIX "D:/code/Graphics/homework2/code/out/install/x64-Release")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

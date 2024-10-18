@@ -1,8 +1,8 @@
-# Install script for directory: D:/Desktop/homework2/code
+# Install script for directory: D:/code/Graphics/homework2/code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "D:/Desktop/homework2/code/")
+  set(CMAKE_INSTALL_PREFIX "D:/code/Graphics/homework2/code/")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,8 +34,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/Desktop/homework2/code/out/build/x64-Release/CGL/cmake_install.cmake")
-  include("D:/Desktop/homework2/code/out/build/x64-Release/src/cmake_install.cmake")
+  include("D:/code/Graphics/homework2/code/out/build/x64-Release/CGL/cmake_install.cmake")
+  include("D:/code/Graphics/homework2/code/out/build/x64-Release/src/cmake_install.cmake")
 
 endif()
 
@@ -47,5 +47,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Desktop/homework2/code/out/build/x64-Release/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/code/Graphics/homework2/code/out/build/x64-Release/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

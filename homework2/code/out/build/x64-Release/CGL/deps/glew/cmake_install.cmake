@@ -1,8 +1,8 @@
-# Install script for directory: D:/Desktop/homework2/code/CGL/deps/glew
+# Install script for directory: D:/code/Graphics/homework2/code/CGL/deps/glew
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "D:/Desktop/homework2/code/out/install/x64-Release")
+  set(CMAKE_INSTALL_PREFIX "D:/code/Graphics/homework2/code/out/install/x64-Release")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,14 +33,14 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/Desktop/homework2/code/out/build/x64-Release/CGL/deps/glew/glew.lib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/code/Graphics/homework2/code/out/build/x64-Release/CGL/deps/glew/glew.lib")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("D:/Desktop/homework2/code/out/build/x64-Release/CGL/deps/glew/CMakeFiles/glew.dir/install-cxx-module-bmi-RelWithDebInfo.cmake" OPTIONAL)
+  include("D:/code/Graphics/homework2/code/out/build/x64-Release/CGL/deps/glew/CMakeFiles/glew.dir/install-cxx-module-bmi-RelWithDebInfo.cmake" OPTIONAL)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "D:/Desktop/homework2/code/CGL/deps/glew/include/GL")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "D:/code/Graphics/homework2/code/CGL/deps/glew/include/GL")
 endif()
 

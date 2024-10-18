@@ -1,8 +1,8 @@
-# Install script for directory: D:/Desktop/homework2/code/CGL
+# Install script for directory: D:/code/Graphics/homework2/code/CGL
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "D:/Desktop/homework2/code/CGL")
+  set(CMAKE_INSTALL_PREFIX "D:/code/Graphics/homework2/code/CGL")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,10 +34,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/Desktop/homework2/code/out/build/x64-Release/CGL/deps/freetype/cmake_install.cmake")
-  include("D:/Desktop/homework2/code/out/build/x64-Release/CGL/deps/glew/cmake_install.cmake")
-  include("D:/Desktop/homework2/code/out/build/x64-Release/CGL/deps/glfw/cmake_install.cmake")
-  include("D:/Desktop/homework2/code/out/build/x64-Release/CGL/src/cmake_install.cmake")
+  include("D:/code/Graphics/homework2/code/out/build/x64-Release/CGL/deps/freetype/cmake_install.cmake")
+  include("D:/code/Graphics/homework2/code/out/build/x64-Release/CGL/deps/glew/cmake_install.cmake")
+  include("D:/code/Graphics/homework2/code/out/build/x64-Release/CGL/deps/glfw/cmake_install.cmake")
+  include("D:/code/Graphics/homework2/code/out/build/x64-Release/CGL/src/cmake_install.cmake")
 
 endif()
 

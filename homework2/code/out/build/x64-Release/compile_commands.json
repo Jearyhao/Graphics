@@ -1,254 +1,254 @@
 [
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\glew.c.obj /FdCGL\\deps\\glew\\CMakeFiles\\glew.dir\\glew.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\src\\glew.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\src\\glew.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\glew.c.obj /FdCGL\\deps\\glew\\CMakeFiles\\glew.dir\\glew.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\src\\glew.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\src\\glew.c",
   "output": "CGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\glew.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\glewinfo.c.obj /FdCGL\\deps\\glew\\CMakeFiles\\glew.dir\\glew.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\src\\glewinfo.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\src\\glewinfo.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\glewinfo.c.obj /FdCGL\\deps\\glew\\CMakeFiles\\glew.dir\\glew.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\src\\glewinfo.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\src\\glewinfo.c",
   "output": "CGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\glewinfo.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\visualinfo.c.obj /FdCGL\\deps\\glew\\CMakeFiles\\glew.dir\\glew.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\src\\visualinfo.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\src\\visualinfo.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\visualinfo.c.obj /FdCGL\\deps\\glew\\CMakeFiles\\glew.dir\\glew.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\src\\visualinfo.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\src\\visualinfo.c",
   "output": "CGL\\deps\\glew\\CMakeFiles\\glew.dir\\src\\visualinfo.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\context.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\context.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\context.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\context.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\init.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\init.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\init.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\init.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\input.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\input.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\input.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\input.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\monitor.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\monitor.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\monitor.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\monitor.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\window.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\window.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\window.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\window.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_init.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_init.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_init.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_init.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_monitor.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_monitor.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_monitor.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_monitor.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_time.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_time.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_time.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_time.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_tls.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_tls.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_tls.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_tls.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_tls.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_tls.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_tls.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_window.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_window.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_window.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\win32_window.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\winmm_joystick.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\winmm_joystick.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\winmm_joystick.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\winmm_joystick.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\winmm_joystick.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\winmm_joystick.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\winmm_joystick.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\Desktop\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\wgl_context.c",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\deps\\glfw\\src\\wgl_context.c",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo -DGLEW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src -ID:\\code\\Graphics\\homework2\\code\\out\\build\\x64-Release\\CGL\\deps\\glfw\\src /DWIN32 /D_WINDOWS /W3 /MD /Zi /O2 /Ob1 /DNDEBUG -w /FoCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /FdCGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\wgl_context.c",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glfw\\src\\wgl_context.c",
   "output": "CGL\\deps\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\vector2D.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\vector2D.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\vector2D.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\vector2D.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\vector2D.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\vector2D.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\vector2D.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\vector3D.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\vector3D.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\vector3D.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\vector3D.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\vector3D.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\vector3D.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\vector3D.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\vector4D.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\vector4D.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\vector4D.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\vector4D.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\vector4D.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\vector4D.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\vector4D.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\matrix3x3.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\matrix3x3.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\matrix3x3.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\matrix3x3.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\matrix3x3.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\matrix3x3.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\matrix3x3.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\matrix4x4.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\matrix4x4.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\matrix4x4.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\matrix4x4.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\matrix4x4.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\matrix4x4.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\matrix4x4.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\quaternion.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\quaternion.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\quaternion.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\quaternion.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\quaternion.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\quaternion.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\quaternion.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\complex.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\complex.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\complex.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\complex.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\complex.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\complex.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\complex.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\color.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\color.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\color.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\color.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\color.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\color.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\color.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\osdtext.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\osdtext.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\osdtext.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\osdtext.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\osdtext.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\osdtext.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\osdtext.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\osdfont.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\osdfont.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\osdfont.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\osdfont.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\osdfont.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\osdfont.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\osdfont.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\viewer.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\viewer.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\viewer.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\viewer.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\viewer.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\viewer.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\viewer.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\base64.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\base64.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\base64.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\base64.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\base64.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\base64.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\base64.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\Desktop\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\tinyxml2.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\Desktop\\homework2\\code\\CGL\\src\\tinyxml2.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\CGL\\src\\tinyxml2.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DGLEW_STATIC -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\deps\\glew\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\CGL\\src /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /FoCGL\\src\\CMakeFiles\\CGL.dir\\tinyxml2.cpp.obj /FdCGL\\src\\CMakeFiles\\CGL.dir\\CGL.pdb /FS -c D:\\code\\Graphics\\homework2\\code\\CGL\\src\\tinyxml2.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\CGL\\src\\tinyxml2.cpp",
   "output": "CGL\\src\\CMakeFiles\\CGL.dir\\tinyxml2.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\bezierPatch.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\bezierPatch.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\bezierPatch.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\bezierPatch.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\bezierPatch.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\bezierPatch.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\bezierPatch.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\bezierCurve.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\bezierCurve.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\bezierCurve.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\bezierCurve.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\bezierCurve.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\bezierCurve.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\bezierCurve.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\scene.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\scene.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\scene.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\scene.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\scene.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\scene.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\scene.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\camera.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\camera.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\camera.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\camera.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\camera.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\camera.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\camera.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\light.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\light.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\light.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\light.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\light.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\light.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\light.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\mesh.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\mesh.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\mesh.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\mesh.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\mesh.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\mesh.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\mesh.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\material.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\material.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\material.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\material.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\material.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\material.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\material.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\texture.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\texture.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\texture.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\texture.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\texture.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\texture.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\texture.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\collada.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\collada.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\collada.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\collada.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\collada.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\collada.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\collada.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\halfEdgeMesh.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\halfEdgeMesh.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\halfEdgeMesh.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\halfEdgeMesh.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\halfEdgeMesh.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\halfEdgeMesh.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\halfEdgeMesh.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\student_code.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\student_code.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\student_code.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\student_code.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\student_code.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\student_code.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\student_code.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\meshEdit.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\meshEdit.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\meshEdit.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\meshEdit.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\meshEdit.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\meshEdit.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\meshEdit.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\main.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\main.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\main.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\main.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\main.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\main.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\main.cpp.obj"
 },
 {
-  "directory": "D:/Desktop/homework2/code/out/build/x64-Release",
-  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\Desktop\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\Desktop\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\png.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\Desktop\\homework2\\code\\src\\png.cpp",
-  "file": "D:\\Desktop\\homework2\\code\\src\\png.cpp",
+  "directory": "D:/code/Graphics/homework2/code/out/build/x64-Release",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1441~1.341\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -ID:\\code\\Graphics\\homework2\\code\\CGL\\include -ID:\\vcpkg-master\\vcpkg-master\\installed\\x64-windows\\include -ID:\\code\\Graphics\\homework2\\code\\src\\dirent /DWIN32 /D_WINDOWS /W3 /GR /EHsc /std=c++14 /O2 /MD /Zi /O2 /Ob1 /DNDEBUG /Fosrc\\CMakeFiles\\meshedit.dir\\png.cpp.obj /Fdsrc\\CMakeFiles\\meshedit.dir\\ /FS -c D:\\code\\Graphics\\homework2\\code\\src\\png.cpp",
+  "file": "D:\\code\\Graphics\\homework2\\code\\src\\png.cpp",
   "output": "src\\CMakeFiles\\meshedit.dir\\png.cpp.obj"
 }
 ]

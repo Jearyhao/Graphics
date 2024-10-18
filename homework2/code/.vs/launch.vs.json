@@ -6,9 +6,9 @@
       "type": "default",
       "project": "CMakeLists.txt",
       "projectTarget": "meshedit.exe",
-      //"name": "meshedit.exe",
+      "name" : " meshedit.exe",
       "args": [
-        "../../../svg/basic/"
+        "D:/code/Graphics/homework2/code/dae/cube.dae"
       ]
     }
   ]
