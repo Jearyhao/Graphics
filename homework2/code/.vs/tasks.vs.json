@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "\u4EFB\u52A1-main",
+      "appliesTo": "src/main.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "\u4EFB\u52A1-main",
+      "appliesTo": "src/main.cpp",
+      "type": "launch"
+    }
+  ]
+}

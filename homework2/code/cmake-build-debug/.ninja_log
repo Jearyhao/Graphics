@@ -1,0 +1,26 @@
+# ninja log v5
+13	1705	7507631583180916	CGL/deps/glew/CMakeFiles/glew.dir/src/visualinfo.c.obj	c6e78e5bd9cac772
+47	1896	7507631585047790	CGL/deps/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	9f6cae0eefd4993f
+17	1915	7507631585267839	CGL/deps/glfw/src/CMakeFiles/glfw.dir/init.c.obj	ef5f066592815ce5
+67	1951	7507631585537900	CGL/deps/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	8a19e3c616dbe0bb
+87	2037	7507631586341023	CGL/deps/glfw/src/CMakeFiles/glfw.dir/win32_tls.c.obj	27bea4e258b75e92
+36	2058	7507631586391828	CGL/deps/glfw/src/CMakeFiles/glfw.dir/input.c.obj	c12871b6c4af7598
+29	2078	7507631586754710	CGL/deps/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	87fbaf482e1c5e0d
+76	2088	7507631586834727	CGL/deps/glfw/src/CMakeFiles/glfw.dir/window.c.obj	e1ad2ea7a34ff00c
+59	2110	7507631586984761	CGL/deps/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	f8f0b237b7878b42
+117	2121	7507631587185363	CGL/deps/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	fb95d014b9892340
+23	2135	7507631587064790	CGL/deps/glfw/src/CMakeFiles/glfw.dir/context.c.obj	8e4b4ba903f337b9
+95	2161	7507631587527590	CGL/deps/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	bf2776551102e18f
+1916	3236	7507631598393998	CGL/src/CMakeFiles/CGL.dir/vector2D.cpp.obj	d4d82699acc01efa
+1951	3315	7507631599246189	CGL/src/CMakeFiles/CGL.dir/vector4D.cpp.obj	cc83e44926d8b945
+2038	3446	7507631600488574	CGL/src/CMakeFiles/CGL.dir/vector3D.cpp.obj	3469b01010e9727d
+2162	3523	7507631601068700	CGL/src/CMakeFiles/CGL.dir/complex.cpp.obj	604ac9c25838ac3c
+1712	3753	7507631603618649	CGL/deps/glfw/src/CMakeFiles/glfw.dir/winmm_joystick.c.obj	20914516d5035f8a
+2121	3824	7507631604362411	CGL/src/CMakeFiles/CGL.dir/color.cpp.obj	5df186da1b4ddf33
+2058	3893	7507631605072238	CGL/src/CMakeFiles/CGL.dir/matrix3x3.cpp.obj	b228306ba1bb1309
+2	3924	7507631605291153	CGL/deps/glew/CMakeFiles/glew.dir/src/glewinfo.c.obj	4347c100b5925919
+1897	4014	7507631606294320	CGL/src/CMakeFiles/CGL.dir/matrix4x4.cpp.obj	f3521c84cff08fc1
+8	4141	7507631607481233	CGL/deps/glew/CMakeFiles/glew.dir/src/glew.c.obj	6f7091b7ab43bb80
+3239	4213	7507631608299844	CGL/src/CMakeFiles/CGL.dir/osdfont.cpp.obj	a74cf3349c531c13
+2079	4240	7507631608546828	CGL/src/CMakeFiles/CGL.dir/viewer.cpp.obj	ed462ecb53d0f8ca
+2089	4520	7507631611347685	CGL/src/CMakeFiles/CGL.dir/osdtext.cpp.obj	f66369875bf73cc2
